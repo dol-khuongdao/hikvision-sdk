@@ -1,3 +1,3 @@
-module github.com/sarjsheff/hiklib
+module github.com/dol-khuongdao/hikvision-sdk
 
-go 1.16
+go 1.22.0

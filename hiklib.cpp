@@ -3,7 +3,7 @@
 
 #include <cstring>
 #include <chrono>
-#include "HCNetSDK.h"
+// #include "HCNetSDK.h"
 #include "hiklib.h"
 #include "stdlib.h"
 
